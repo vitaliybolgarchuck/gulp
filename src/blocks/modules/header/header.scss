@@ -1,0 +1,30 @@
+.search {
+display: flex;
+justify-content: space-between;
+&-name {
+font-family: BodoniSvtyTwoSCITCTT;
+font-size: 48PX;
+color: #c19b76;
+}
+}
+.section0{
+    height: 1034px;
+    width: 100%;
+    display: flex;
+}
+.main-social{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+.main-social li{
+    padding: 40px;
+}
+.block1{
+    background-image: url(../img/bg1.jpg);
+    font-size: 81px;
+    color: #ffffff;
+    padding-top: 150px;
+    padding-right: 515px;
+    padding-left: 500px;
+}
